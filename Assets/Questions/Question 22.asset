@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 22
   m_EditorClassIdentifier: 
   question: What country lies above Mexico?
+  answers:
+  - USA
+  - Canada
+  - Columbia
+  - Africa
+  correctAnswerIndex: 0

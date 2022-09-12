@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 21
   m_EditorClassIdentifier: 
   question: What is the official currency of the United Kingdom?
+  answers:
+  - Dollar
+  - Pound sterling
+  - Euro
+  - Lira
+  correctAnswerIndex: 1

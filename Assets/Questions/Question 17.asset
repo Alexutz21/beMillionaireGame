@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 17
   m_EditorClassIdentifier: 
   question: What planet is closest to Earth?
+  answers:
+  - Venus
+  - Uranus
+  - Saturn
+  - Marte
+  correctAnswerIndex: 0

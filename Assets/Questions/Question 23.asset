@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 23
   m_EditorClassIdentifier: 
   question: How many countries are there in the United Kingdom?
+  answers:
+  - 3
+  - 4
+  - 5
+  - 6
+  correctAnswerIndex: 1

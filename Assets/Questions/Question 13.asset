@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 13
   m_EditorClassIdentifier: 
   question: What country are the Great Pyramids of Giza located in?
+  answers:
+  - Zambia
+  - Nigeria
+  - Tanzania
+  - Egypt
+  correctAnswerIndex: 3

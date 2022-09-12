@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 14
   m_EditorClassIdentifier: 
   question: What is the name of the smallest country in the world?
+  answers:
+  - Liechtenstein
+  - Monaco
+  - The Vatican City
+  - Maldives
+  correctAnswerIndex: 2

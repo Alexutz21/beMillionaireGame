@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 15
   m_EditorClassIdentifier: 
   question: What country has the most natural lakes?
+  answers:
+  - Canada
+  - New Zealand
+  - Australia
+  - America
+  correctAnswerIndex: 0

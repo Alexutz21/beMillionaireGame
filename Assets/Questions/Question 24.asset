@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 24
   m_EditorClassIdentifier: 
   question: What is the name of the tallest mountain in Canada?
+  answers:
+  - Mount Logan
+  - 'Mount Garibaldi '
+  - Mount Tuzo
+  - Mount Rundle
+  correctAnswerIndex: 0

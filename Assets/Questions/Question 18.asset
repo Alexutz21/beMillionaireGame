@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 18
   m_EditorClassIdentifier: 
   question: What is the name of the river that flows through the Brazil rainforest?
+  answers:
+  - Nile River
+  - The Amazon
+  - Mississippi River
+  - Parana River
+  correctAnswerIndex: 1

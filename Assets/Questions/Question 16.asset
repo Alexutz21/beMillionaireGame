@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 16
   m_EditorClassIdentifier: 
   question: How many States does the United States consist of?
+  answers:
+  - 49
+  - 50
+  - 51
+  - 52
+  correctAnswerIndex: 1

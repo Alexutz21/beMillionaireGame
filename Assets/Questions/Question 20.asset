@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 20
   m_EditorClassIdentifier: 
   question: What is the coldest place on Earth?
+  answers:
+  - Antarctica
+  - Alaska
+  - Russia
+  - Greenland
+  correctAnswerIndex: 0

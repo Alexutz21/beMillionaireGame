@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 11
   m_EditorClassIdentifier: 
   question: What is the capital of Canada?
+  answers:
+  - Toronto
+  - Ottawa
+  - Vancouver
+  - Montreal
+  correctAnswerIndex: 1

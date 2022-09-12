@@ -18,7 +18,6 @@ public class ScoreKeeper : MonoBehaviour
     public int GetQuestionSeen()
     {
         return questionsSeen;
-
     }
     public void IncrementQuestionsSeen()
     {
