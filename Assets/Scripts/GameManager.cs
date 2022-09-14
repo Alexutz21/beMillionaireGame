@@ -31,6 +31,7 @@ public class GameManager : MonoBehaviour
     }
     public void ReplayScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(0);
+        //(SceneManager.GetActiveScene().buildIndex)
     }
 }

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fe2ca5cd39d5664790abd818470d230, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: What are the names of the five oceans of the world?
+  question: How many time zones are there in the US?
   answers:
-  - Africa, Atlantic, Pacific, Ecuador, Asian
-  - Pacific, Nordic, Indonesian, African, American
-  - Atlantic, Pacific, Indian, Arctic, and the Antarctic
-  - Macedonian, Caraibbean, Atlantic, Ecuadorian, Indian
-  correctAnswerIndex: 2
+  - 5
+  - 4
+  - 7
+  - 6
+  correctAnswerIndex: 3
